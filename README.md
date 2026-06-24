@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003eb3,100:00b4ff&height=200&section=header&text=Sahil%20Bhure&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20ML%20%7C%20Cloud&descAlignY=58&descSize=18&descColor=rgba(255,255,255,0.8)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003eb3,100:00b4ff&height=180&section=header&text=Sahil%20Bhure&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20%7C%20ML%20%7C%20Analytics&descAlignY=56&descSize=17&descColor=rgba(255,255,255,0.75)" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-bhure/)
 [![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-00b4ff?style=for-the-badge&logo=streamlit&logoColor=white)](https://fifa-wc-2026-analytics.streamlit.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil1021)
 
@@ -16,39 +16,42 @@
 
 ### Hey, I'm Sahil 👋
 
-I'm a data person — I like taking messy, raw data and turning it into something that actually tells a story.
+From Pune, Maharashtra. Currently in the UK finishing my **MSc Business Analytics at Warwick Business School** — graduating August 2025.
 
-Currently finishing my **MSc Business Analytics at Warwick Business School** (graduating August 2025) and working on my dissertation. Before Warwick I did a **BSc in Data Science from IIT Madras** and a **BE in Computer Science from SPPU Pune** — so the foundations run pretty deep across both the analytical and engineering sides.
+I got into data science properly during my **BSc at IIT Madras** and haven't looked back since. There's something genuinely satisfying about throwing a messy dataset at a problem and watching patterns emerge. Statistics clicked for me in a way that most things didn't — and once it did, I went deep.
 
-Originally from India, based in the UK now, and actively looking for data analyst and business analytics roles where I can do meaningful work with real data.
+Before IIT Madras I did my **Computer Science engineering from SPPU Pune**, so I'm comfortable on both the engineering and analytical sides of a problem.
 
 ---
 
-### What I'm About
+### What I'm Actually Like
 
-Data problems genuinely excite me. Whether it's building an end-to-end pipeline that pulls live match data from an API into a cloud database, training a model to predict outcomes, or debugging why a chart renders wrong at 2am — I find all of it interesting.
+I don't just build models — I like understanding *why* they work, where they break, and how to explain them to someone who's never seen a confusion matrix.
 
-I like working across the full stack — not just the notebook, not just the dashboard, but the whole thing from raw data to something a non-technical person can open and immediately understand.
+My biggest project right now is a **live World Cup 2026 analytics platform** I built entirely during the tournament. Real match data from an API, stored in Azure SQL, Random Forest predictions, Monte Carlo bracket simulator running 10,000 tournament simulations, deployed Streamlit dashboard. I built it because I'm obsessed with football and thought — why not make the data obsession productive.
 
-Outside of data I'm a huge football fan (Argentina, always ⚡) and I follow the game obsessively. Which is probably why my biggest project so far is a live World Cup 2026 analytics platform built entirely during the tournament.
+Speaking of which — I watch every Argentina match regardless of UK timezone. No regrets.
+
+Outside football and data: I'm figuring out the UK job market as an international MSc student, writing my dissertation, and trying to push code that actually does something useful.
 
 ---
 
 ### Currently
 
 - 📝 Writing my MSc dissertation at Warwick Business School
-- ⚽ Building a live FIFA World Cup 2026 analytics platform with ML predictions and automated data pipeline
-- 🔍 Open to data analyst, business analytics, and BI roles in the UK
+- ⚽ Running a live FIFA WC 2026 analytics platform with Monte Carlo predictions
+- 🔍 Looking for data analyst / business analytics roles in the UK
+- 📍 Coventry / Warwick area
 
 ---
 
 ### Education
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| MSc Business Analytics | Warwick Business School | 2024 – 2025 |
-| BSc Data Science | IIT Madras | 2021 – 2024 |
-| BE Computer Science & Engineering | SPPU Pune | 2020 – 2024 |
+| | Degree | Institution | Year |
+|--|--------|-------------|------|
+| 🎓 | MSc Business Analytics | Warwick Business School | 2024 – 2025 |
+| 🎓 | BSc Data Science | IIT Madras | 2021 – 2024 |
+| 🎓 | BE Computer Science & Engineering | SPPU Pune | 2020 – 2024 |
 
 ---
 
@@ -81,14 +84,20 @@ Outside of data I'm a huge football fan (Argentina, always ⚡) and I follow the
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| [⚽ FIFA WC 2026 Analytics](https://github.com/Sahil1021/fifa-wc-2026-analytics) | Live tournament dashboard — API pipeline, Azure SQL, Random Forest predictions, deployed Streamlit app built during the live tournament | Python, Azure SQL, scikit-learn, Streamlit |
-| [🚕 Taxi Fare Prediction](https://github.com/Sahil1021/Taxi-Fare-Prediction) | ML regression model to predict taxi fares from trip features including distance, duration and passenger count | Python, scikit-learn, Pandas |
-| [🔥 Employee Burnout Prediction](https://github.com/Sahil1021/Employee-Burnout-Prediction) | Predicts employee burnout risk from HR data — designation, workload, remote work factors | Python, scikit-learn, Flask |
-| [📺 Tshow](https://github.com/Sahil1021/Tshow) | Web application for TV show tracking and discovery | Python, Flask |
-| [📝 Bloglite](https://github.com/Sahil1021/Bloglite) | Lightweight blogging platform with user authentication | Python, Flask, SQLite |
-| [🤖 Chatbot](https://github.com/Sahil1021/Chatbot) | Rule-based and ML-powered conversational chatbot | Python, NLP |
+| [⚽ FIFA WC 2026 Analytics](https://github.com/Sahil1021/fifa-wc-2026-analytics) | Live tournament dashboard built during WC 2026. API pipeline, Azure SQL, Random Forest + Monte Carlo simulator, deployed Streamlit app | Python, Azure SQL, scikit-learn, Streamlit |
+| [🚕 Taxi Fare Prediction](https://github.com/Sahil1021/Taxi-Fare-Prediction) | ML regression to predict taxi fares from trip features | Python, scikit-learn, Pandas |
+| [🔥 Employee Burnout Prediction](https://github.com/Sahil1021/Employee-Burnout-Prediction) | Predicts employee burnout risk from HR data | Python, scikit-learn, Flask |
+| [📺 Tshow](https://github.com/Sahil1021/Tshow) | TV show tracking web app | Python, Flask |
+| [📝 Bloglite](https://github.com/Sahil1021/Bloglite) | Lightweight blogging platform | Python, Flask, SQLite |
+| [🤖 Chatbot](https://github.com/Sahil1021/Chatbot) | ML-powered conversational chatbot | Python, NLP |
 
 ---
+
+<div align="center">
+
+*"Data is just patterns waiting to be found."*
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4ff,100:003eb3&height=100&section=footer" width="100%"/>
